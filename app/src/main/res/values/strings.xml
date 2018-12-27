@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LSync</string>
+    <string name="computer">Computer</string>
+    <string name="gallery">Photos</string>
+</resources>
